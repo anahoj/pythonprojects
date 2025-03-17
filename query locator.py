@@ -1,3 +1,5 @@
+#Tells you if the inputted query (word or url) exists on the target page
+
 import urllib.request
 import re
 
