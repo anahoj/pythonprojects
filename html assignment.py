@@ -1,3 +1,5 @@
+#Parses through html data. Iterates through {count} urls and extracts the name at position {pos}
+
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import ssl
